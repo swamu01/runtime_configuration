@@ -4,5 +4,5 @@ i<?xml version="1.0"?>
 
 <!-- Proxy Rules-->
 <nete:proxyrules xmlns:nete="http://www.ca.com">
-     <nete:forward>http://www.netflix.com$0</nete:forward>
+     <nete:forward>http://ec2-54-235-7-166.compute-1.amazonaws.com$0</nete:forward>
 </nete:proxyrules>
