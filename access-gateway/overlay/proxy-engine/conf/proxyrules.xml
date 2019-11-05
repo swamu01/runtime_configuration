@@ -1,4 +1,4 @@
-i<?xml version="1.0"?>
+<?xml version="1.0"?>
 <?cocoon-process type="xslt"?>
 <!DOCTYPE nete:proxyrules SYSTEM "file:////opt/CA/secure-proxy/proxy-engine/conf/dtd/proxyrules.dtd">
 
